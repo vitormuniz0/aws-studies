@@ -1,4 +1,4 @@
-# Aws Studies
+# AWS Studies
 
 Repositório de estudos e anotações da minha jornada 
 na nuvem aws.
